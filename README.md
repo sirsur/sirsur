@@ -5,7 +5,7 @@
 
 I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSTU and
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=web+developer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=web+developer">
 
 <h2>📊📈 Development stats</h2>
 
