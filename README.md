@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=sirsur">
 <img align="right" src="https://svgshare.com/i/ZjP.svg">
 
-<p>I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSTU and</p>
+I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSTU and
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=web+developer)](https://git.io/typing-svg)
 
