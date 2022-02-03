@@ -3,9 +3,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=sirsur">
 <img align="right" src="https://svgshare.com/i/ZjP.svg">
 
-I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU and
+I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019/2023) and
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=web+developer">
+
+<h2>💻🗂 Projects</h2>
 
 <h2>📊📈 Development stats</h2>
 
