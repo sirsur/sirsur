@@ -22,7 +22,8 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirsur&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>📓📚 Language and tools</h2>
+<h2>📓📚 Languages and tools</h2>
+🇺🇸🇬🇧(B2 confirmed), 🇷🇺(native)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
