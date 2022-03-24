@@ -23,7 +23,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirsur&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>📓📚 Languages and tools</h2>
-🇺🇸🇬🇧(B2 confirmed), 🇷🇺(native)
+🇬🇧(B2 confirmed), 🇷🇺(native)
 
 <br />
 <br />
