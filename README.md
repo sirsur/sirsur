@@ -12,6 +12,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
   <li>Grind(2017) - site for applicants made as a practical part of the project to protect the certificate of English level B2</li>
   <li>PolyAlarm(2021) - iOS-application created as a term paper in the subject "Software Engineering"</li>
   <li>UgraTransStroy(2021) - site developed during the summer training practice for the company "UgraTransStroy"</li>
+  <li>Personal website(2022) - portfolio website made to get info about my activities
 </ul>
 
 <h2>📊📈 Development stats</h2>
