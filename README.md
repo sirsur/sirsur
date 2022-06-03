@@ -17,7 +17,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 
 <h2>📊📈 Development stats</h2>
 
-<img width="250px" align="right" src="https://media.giphy.com/media/uLnPIWsqIz2aA/giphy.gif">
+<img width="200px" align="right" src="https://media.giphy.com/media/uLnPIWsqIz2aA/giphy.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsur&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
