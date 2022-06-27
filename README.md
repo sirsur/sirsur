@@ -26,6 +26,12 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 <h2>📓📚 Languages and tools</h2>
 🇬🇧(B2 confirmed), 🇷🇺(native)
 
+<h2>📩📞 Links</h2>
+<a href="https://t.me/de4nny">Telegram</a>
+<a href="casimowa.c2001@gmail.com">Mail</a>
+<a href="https://instagram.com/ynnaedgnikcuf">Instagram</a>
+<a href="https://vk.com/sursir">VK</a>
+
 <br />
 <br />
 
@@ -37,6 +43,9 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 <br />
 
