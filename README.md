@@ -27,10 +27,12 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 🇬🇧(B2 confirmed), 🇷🇺(native)
 
 <h2>📩📞 Links</h2>
-<a href="https://t.me/de4nny">Telegram</a>
-<a href="casimowa.c2001@gmail.com">Mail</a>
-<a href="https://instagram.com/ynnaedgnikcuf">Instagram</a>
-<a href="https://vk.com/sursir">VK</a>
+<ul>
+<li><a href="https://t.me/de4nny">Telegram</a></li>
+<li><a href="casimowa.c2001@gmail.com">Mail</a></li>
+<li><a href="https://instagram.com/ynnaedgnikcuf">Instagram</a></li>
+<li><a href="https://vk.com/sursir">VK</a></li>
+</ul
 
 <br />
 <br />
