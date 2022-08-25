@@ -15,6 +15,12 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
   <li><a href="https://sirsur.github.io/portfolio/">Personal website(2022)</a> - portfolio website made to get info about my activities</li>
 </ul>
 
+<h2>🥷💰 Experience</h2>
+<ul>
+  <li>UseTech - Junior Developer (2022 - now)</li>
+  <p>Currently developing services and fixing old ones on government site</p>
+</ul>
+
 <h2>📊📈 Development stats</h2>
 
 <img width="400px" align="right" src="https://media.giphy.com/media/uLnPIWsqIz2aA/giphy.gif">
@@ -32,6 +38,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 <li><a href="casimowa.c2001@gmail.com">Mail</a></li>
 <li><a href="https://instagram.com/ynnaedgnikcuf">Instagram</a></li>
 <li><a href="https://vk.com/sursir">VK</a></li>
+<li><a href="https://drive.google.com/file/d/1JavwMkWwI8XatI_lJl3k04G9lx4GLj8h/view?usp=sharing">My CV</a></li>
 </ul
 
 <br />
