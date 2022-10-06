@@ -26,7 +26,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 
 <h2>📊📈 Development stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsur&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsur&theme=tokyonight&hide=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>📓📚 Languages and tools</h2>
 🇬🇧(B2 confirmed), 🇷🇺(native)
