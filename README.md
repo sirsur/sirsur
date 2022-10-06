@@ -16,6 +16,9 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 </ul>
 
 <h2>🥷💰 Experience</h2>
+
+<img width="400px" align="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif">
+
 <ul>
   <li>UseTech - Junior Developer (2022 - now)</li>
   <p>Currently developing services and fixing old ones on government site</p>
@@ -23,11 +26,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 
 <h2>📊📈 Development stats</h2>
 
-<img width="350px" align="right" src="https://media.giphy.com/media/uLnPIWsqIz2aA/giphy.gif">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsur&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirsur&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsur&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>📓📚 Languages and tools</h2>
 🇬🇧(B2 confirmed), 🇷🇺(native)
