@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Karina Kasimova</h1>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=sirsur">
-<img align="right" src="https://svgshare.com/i/ZjP.svg">
 
 I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019/2023) and
 
