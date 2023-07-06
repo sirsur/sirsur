@@ -38,7 +38,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 <li><a href="casimowa.c2001@gmail.com">Mail</a></li>
 <li><a href="https://instagram.com/ynnaedgnikcuf">Instagram</a></li>
 <li><a href="https://vk.com/sursir">VK</a></li>
-<li><a href="[https://drive.google.com/file/d/1JavwMkWwI8XatI_lJl3k04G9lx4GLj8h/view?usp=sharing](https://drive.google.com/file/d/18whTz1_KZorJf9aCKAOIyQCdYWs841AV/view?usp=sharing)">My CV</a></li>
+<li><a href="https://drive.google.com/file/d/18whTz1_KZorJf9aCKAOIyQCdYWs841AV/view?usp=sharing">My CV</a></li>
 </ul
 
 <br />
