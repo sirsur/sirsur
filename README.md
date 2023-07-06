@@ -12,7 +12,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
   <li><a href="https://github.com/sirsur/PolyAlarm">PolyAlarm(2021)</a> - iOS-application created as a term paper in the subject "Software Engineering"</li>
   <li><a href="https://ugratransstroy.ru">UgraTransStroy(2021)</a> - site developed during the summer training practice for the company "UgraTransStroy"</li>
   <li><a href="https://sirsur.github.io/portfolio/">Personal website(2022)</a> - portfolio website made to get info about my activities (only mobile version, desktop still in work)</li>
-  <li>Portfolio website constructor - tool for developing your portfolio sites made as part of a diploma at the university</li>
+  <li><a href="https://github.com/sirsur/constructor">Portfolio website constructor</a> - tool for developing your portfolio sites made as part of a diploma at the university</li>
   <li><a href='https://auto-selection-nn.ru'>Auto selection(2022)</a> - website that helps you sell car profitably</li>
 </ul>
 
