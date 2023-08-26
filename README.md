@@ -18,8 +18,6 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 
 <h2>🥷💰 Experience</h2>
 
-<img width="400px" align="right" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif">
-
 <ul>
   <li>UseTech - Junior Developer (2022 - now)</li>
   <p>Currently developing services and fixing old ones on government site</p>
