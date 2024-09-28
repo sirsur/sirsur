@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=sirsur">
 
-I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019/2023) and
+I'm from Surgut, Russia. I'm computer science student from SPbSPU(2019/2023) and
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=web+developer">
 
@@ -10,17 +10,19 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 <ul>
   <li><a href="https://github.com/sirsur/grind_new">Grind(2017, 2022 remade)</a> - site for applicants made as a practical part of the project to protect the certificate of English level B2</li>
   <li><a href="https://github.com/sirsur/PolyAlarm">PolyAlarm(2021)</a> - iOS-application created as a term paper in the subject "Software Engineering"</li>
-  <li><a href="https://ugratransstroy.ru">UgraTransStroy(2021)</a> - site developed during the summer training practice for the company "UgraTransStroy"</li>
+  <li><a href="https://github.com/sirsur/ugratransstroy_new">UgraTransStroy(2021)</a> - site developed during the summer training practice for the company "UgraTransStroy"</li>
   <li><a href="https://sirsur.github.io/portfolio/">Personal website(2022)</a> - portfolio website made to get info about my activities (only mobile version, desktop still in work)</li>
   <li><a href="https://github.com/sirsur/constructor">Portfolio website constructor</a> - tool for developing your portfolio sites made as part of a diploma</li>
-  <li><a href='https://auto-selection-nn.ru'>Auto selection(2022)</a> - website that helps you sell car profitably</li>
+  <li><a href='https://sirsur.github.io/auto-selection/'>Auto selection(2022)</a> - website that helps you sell car profitably</li>
 </ul>
 
 <h2>🥷💰 Experience</h2>
 
 <ul>
-  <li>UseTech - Junior Developer (2022 - now)</li>
-  <p>Currently developing services and fixing old ones on government site</p>
+  <li>UseTech - Junior Developer (2022 - 2023)</li>
+  <p>Creation of services, their support on the government website</p>
+  <li>Sigma - Junior Fullstack Developer (2023 - 2024)</li>
+  <p>Maintaining the functionality of the “Sigma SUS” electrical network management system</p>
 </ul>
 
 <h2>📊📈 Development stats</h2>
@@ -36,7 +38,7 @@ I'm from Saint-Petersburg, Russia. I'm computer science student from SPbSPU(2019
 <li><a href="casimowa.c2001@gmail.com">Mail</a></li>
 <li><a href="https://instagram.com/ynnaedgnikcuf">Instagram</a></li>
 <li><a href="https://vk.com/sursir">VK</a></li>
-<li><a href="https://drive.google.com/file/d/18whTz1_KZorJf9aCKAOIyQCdYWs841AV/view?usp=sharing">My CV</a></li>
+<li><a href="https://drive.google.com/file/d/16cVohqWMiHPuWSJHuI-sUinH4G-GjEC-/view?usp=share_link">My CV</a></li>
 </ul
 
 <br />
